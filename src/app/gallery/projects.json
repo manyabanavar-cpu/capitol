@@ -1630,5 +1630,13 @@
     "codeUrl": "https://github.com/studyloops37238/mediTrack",
     "githubUsername": "studyloops37238",
     "imageSrc": "/gallery/screenshots/recGMWzedvoALJ3Wb.webp"
-  }
+  },
+{
+  "recordId": "manyabanavar-cpu-NoVaWatts",
+  "projectName": "NoVaWatts",
+  "demoUrl": "https://manyabanavar-cpu.github.io/NoVaWatts/",
+  "codeUrl": "https://github.com/manyabanavar-cpu/NoVaWatts",
+  "githubUsername": "<manyabanavar-cpu>",
+  "imageSrc": "/gallery/screenshots/<your-username>-<your-project-name>.webp"
+}
 ]
